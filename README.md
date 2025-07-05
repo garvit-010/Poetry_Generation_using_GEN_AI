@@ -166,7 +166,7 @@ python src/generate_poetry.py
 > A hush of dew on silent leaves,  
 > The world begins with gentle ease.
 
-**Llama-3.2-1B Output:**  
+**Bartowski GGUF Model:**  
 > In the hush of dawn’s embrace,  
 > The forest wakes with gentle grace,  
 > Birds sing softly, shadows fade,  
