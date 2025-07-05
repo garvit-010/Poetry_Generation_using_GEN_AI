@@ -2,7 +2,7 @@ import gradio as gr
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 
-model_path = r"D:\Projects\Poetry_Generation_using_GEN_AI\code\poetry-gpt2-finetuned"
+model_path = r"code\poetry-gpt2-finetuned"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path)
 
