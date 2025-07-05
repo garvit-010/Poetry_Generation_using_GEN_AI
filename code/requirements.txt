@@ -1,0 +1,14 @@
+# Core ML and NLP
+transformers>=4.38.0
+datasets>=2.19.0
+torch>=2.0.0
+
+# GUI
+gradio>=4.25.0
+
+# Ollama Python client
+ollama>=0.1.6
+
+# Optional: for data processing and experimentation
+tqdm
+numpy
